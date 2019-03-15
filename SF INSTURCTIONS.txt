@@ -1,0 +1,5 @@
+linux pocket guide 
+Learn how to write basic java code
+understand git
+practice vim
+host a website(webserver) and install apache.How to access that locally 
